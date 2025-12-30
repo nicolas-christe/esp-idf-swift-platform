@@ -1,0 +1,3 @@
+name: SwiftPlatform
+version: "0.1.0"
+description: "Build integration and C interoperability shims required to compile and link Swift code for ESP-IDF targets"

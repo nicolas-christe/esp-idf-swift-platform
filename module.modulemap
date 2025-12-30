@@ -1,0 +1,4 @@
+module ESP_Platform [system] {
+    umbrella header "platform.h"
+    export *
+}
